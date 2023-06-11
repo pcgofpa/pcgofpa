@@ -27,7 +27,8 @@ You can contact me via LinkedIn or Twitter. <br>
     <li><a href="https://www.linkedin.com/in/philip-ginter-60683875/">LinkedIn</a></li>
     <li><a href="https://twitter.com/PGinte">Twitter</a></li>
 </ul>
-You can reach me via my LinkedIn or my Twitter. 
+<br>
+As the Twitter is my personal account, it is mostly tech and soccer.
 </p>
 
 #### Location
