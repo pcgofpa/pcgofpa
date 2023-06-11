@@ -1,10 +1,9 @@
 # Philip Ginter
 ## Junior Software Engineer
-<br>
 ### About
 <p>
-The majority of my work that will appear on Github will be in Python, as I am currently working on teaching Python to my daughter. My current position as a Junior Software Engineer is working on converting Ada to C++ embedded code, and my primary focus is testing the software to ensure that it operates as intended. In addition to performing testing of the software, I do a lot of work with requirements working with SysML and UML in Cameo Enterprise Architecture. 
-<br><br>
+The majority of my work that will appear on Github will be in Python, as I am currently working on teaching Python to my daughter. My current position as a Junior Software Engineer is working on converting Ada to C++ embedded code, and my primary focus is testing the software to ensure that it operates as intended. In addition to performing testing of the software, I do a lot of work with requirements working with SysML and UML in Cameo Enterprise Architecture.</p>
+<br>
 My primary programming languages are
 <ul>
     <li>Python</li>
@@ -20,6 +19,7 @@ I have experience working on:
     <li>Embedded</li>    
 </ul>
 </p>
+
 ### Contact me
 <p>
 You can contact me via LinkedIn or Twitter. <br>
