@@ -9,6 +9,8 @@ My primary programming languages are
     <li>Python</li>
     <li>C++</li>
     <li>Java</li>
+    <li>HTML5</li>
+    <li>CSS</li>
 </ul> 
 <br>
 I have experience working on: 
