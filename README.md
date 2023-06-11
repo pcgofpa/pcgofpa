@@ -29,11 +29,8 @@ You can contact me via LinkedIn or Twitter. <br>
 </ul>
 You can reach me via my LinkedIn or my Twitter. 
 </p>
-<!--
-**pcgofpa/pcgofpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Location
+<p>
+Currently we are located in Florida, however, my family is willing to relocate to the Greater Chicago Area to be closer to family.
+</p>
