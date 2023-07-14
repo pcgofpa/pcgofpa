@@ -18,7 +18,8 @@ I have experience working on:
     <li>Applications</li>
     <li>Mobile Development</li>
     <li>Data ETL, Analysis, and Visualization</li>
-    <li>Embedded</li>    
+    <li>Embedded</li>
+    <li>Web Development</li>
 </ul>
 </p>
 
@@ -35,5 +36,5 @@ As the Twitter is my personal account, it is mostly tech and soccer.
 
 #### Location
 <p>
-Currently we are located in Florida, however, my family is willing to relocate to the Greater Chicago Area to be closer to family.
+Currently we are located in Florida, however, my family is willing to relocate preferably to the Greater Chicago Area or Philadelphia area to be closer to family.
 </p>
